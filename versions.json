@@ -1,1 +1,10 @@
-
+{
+  "latest": "Speed HTML EDYTION",
+  "versions": [
+    {
+      "id": "1.0.0",
+      "type": "release",
+      "url": "https://code.studiosant.pl/game/1.2.0.json"
+    }
+  ]
+}
